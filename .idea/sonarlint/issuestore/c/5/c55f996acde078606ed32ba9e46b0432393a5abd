@@ -1,0 +1,24 @@
+
+Etypescript:S1128")Remove this unused import of 'OnChanges'.(¤è‚–
+Gtypescript:S1128"+Remove this unused import of 'TemplateRef'.(¤è‚–
+Ltypescript:S1128")Remove this unused import of 'ViewChild'.(¤è‚–8ÞºÄÎÞ0
+Jtypescript:S1128".Remove this unused import of 'InvoiceService'.(ƒÊš‚
+Itypescript:S1128".Remove this unused import of 'ActivatedRoute'.(ðéŸA
+Atypescript:S1128"&Remove this unused import of 'Router'.(ðéŸA
+Ktypescript:S1128"/Remove this unused import of 'NbDialogService'.(êŽ”ª
+Ktypescript:S1128"/Remove this unused import of 'NbWindowService'.(êŽ”ª
+]typescript:S1128"<Remove this unused import of 'AddInvoiceToFactureComponent'.(Ï­¾ûùÿÿÿÿ
+^typescript:S1128"=Remove this unused import of 'AddCustomerToFactureComponent'.(í¡ùîøÿÿÿÿ
+Xtypescript:S1128	"<Remove this unused import of 'AddProductToFactureComponent'.(Èïå„
+Ctypescript:S1128
+"'Remove this unused import of 'Product'.(ãåòÚ
+Otypescript:S1128"3Remove this unused import of 'WindowFormComponent'.(‘¼ø·
+Ctypescript:S1128"(Remove this unused import of 'Customer'.(¨üÑ
+Ftypescript:S1128"+Remove this unused import of 'FormBuilder'.(üÙêy
+Ptypescript:S1128"/Remove this unused import of 'ProductsService'.(ª›õêþÿÿÿÿ
+Qtypescript:S1128"0Remove this unused import of 'CustomersService'.(Ó¹›ˆûÿÿÿÿ
+?typescript:S1186"#Unexpected empty method 'ngOnInit'.(Åˆ³Â
+@typescript:S4140#"$Unexpected comma in middle of array.(‡¸±›
+Etypescript:S4140&"$Unexpected comma in middle of array.(š·Á®üÿÿÿÿ
+?typescript:S4140'"$Unexpected comma in middle of array.(£âÁ
+Dtypescript:S1186*"#Unexpected empty method 'onSubmit'.(çêïÜùÿÿÿÿ
